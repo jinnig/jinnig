@@ -38,7 +38,7 @@
       <td>Enabled pushing models from MLflow to AWS Sagemaker Model Registry</td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/airbaytehq/airbyte/pull/5561"><b>Airbyte</b></a></td>
+      <td><a href="https://github.com/airbytehq/airbyte/pull/5561"><b>Airbyte</b></a></td>
       <td>Added DynamoDB as an Airbyte connector</td>
     </tr>
   </tbody>
