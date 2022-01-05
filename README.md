@@ -11,13 +11,13 @@
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-F9A03C?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="JWT" src="https://img.shields.io/badge/JWT-007ACC?style=flat-square&logo=JSON%20web%20tokens" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MYsql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
-  <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
+  <img alt="DjangoREST" src="https://img.shields.io/badge/Django-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-5849BE?style=flat-square&logo=redis&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-311C87?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Postgres" src="https://img.shields.io/badge/postgres-430098?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-430098?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-764ABC?style=flat-square&logo=git&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-%23316192.svg?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-3ECF8E?style=flat-square&logo=cypress&logoColor=white" />
