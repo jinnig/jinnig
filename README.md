@@ -36,7 +36,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/mlflow/mlflow/pull/4669"><b>MLflow</b></a></td>
-      <td>Enabled pushing models from MLflow to AWS Sagemaker</td>
+      <td>Enabled pushing models from MLflow to AWS Sagemaker Model Registry</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/airbytehq/airbyte/pull/5561"><b>Airbyte</b></a></td>
