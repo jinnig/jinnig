@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1479080836/1363/eevee.gif?1479080836" width="30"/> Hey there!</h1>
 
 
-<p>Welcome to my page! </br> I'm Jinni, passionate software developer currently living in <b>Sunnyvale, US</b>. </p>
+<p>Welcome to my page! </br> I'm Ginny, passionate software developer and active contributor for open source projects (MLFlow and Airbyte) currently living in <b>Sunnyvale, US</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
@@ -30,14 +30,17 @@
   <thead align="center">
     <tr border: none;>
       <td><b>Open Source Projects</b></td>
+      <td><b></b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/mlflow/mlflow/pull/4669"><b>MLflow</b></a></td>
+      <td>Enabled pushing models from MLflow to AWS Sagemaker</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/airbytehq/airbyte/pull/5561"><b>Airbyte</b></a></td>
+      <td>Added DynamoDB as an Airbyte connector</td>
     </tr>
   </tbody>
 </table>
