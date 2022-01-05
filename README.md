@@ -43,6 +43,16 @@
     </tr>
   </tbody>
 </table>
+<h3>Certifications</h3>
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/mlflow/mlflow/pull/4669"><b>Google Cloud Platform Certified Data Engineer</b></a></td>
+    </tr>
+  </tbody>
+</table>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/jinnig" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jinni-gu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
